@@ -9,7 +9,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/image1.jpg "Final image"
+[image1]: ./examples/image1.png "Final image"
 
 ---
 

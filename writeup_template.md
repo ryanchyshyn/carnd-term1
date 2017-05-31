@@ -45,3 +45,4 @@ There are some shortcoming:
 ### 3. Possible improvements
 
 1. Add some sort of filtering to lines drawing to avoid lines jitter (especially because real lines can't change the location too frequent).
+2. Make it ready for "challenge" video.
